@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @tetpic
-- 👀 I’m interested in JS, making music, sports.
-- 🌱 I’m currently learning JS
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, My name is Nikita Bykov.
+- 👀 I’m interested in JS, HTML, SCSS, React.js. My hobbies are making music & sports.
+- 🌱 I’m currently learning React.js
 - 📫 You can reach me via Insta: https://www.instagram.com/nik_lich/
 
 <!---
