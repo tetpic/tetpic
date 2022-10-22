@@ -1,6 +1,9 @@
 - 👋 Hi, My name is Nikita Bykov.
 - 👀 I’m interested in JS, HTML, SCSS, React.js. My hobbies are making music & sports.
-- 🌱 I’m currently learning React.js
+- Now I'm working at Yamaguchi.ru as Middle Frontend Devloper.
+- My work stack are:  VanillaJS, SCSS, of course HTML5, PHP 5.1, Yii2  and js libraries.
+- 🌱 I’m currently learning React.js, Laravel(for REST API), WebGL & performance optimizations.
+
 - 📫 You can reach me via Insta: https://www.instagram.com/nik_lich/
 
 <!---
